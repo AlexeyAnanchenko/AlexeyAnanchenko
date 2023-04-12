@@ -5,13 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=18&duration=3500&pause=8000&color=000000&center=true&vCenter=true&repeat=true&width=815&lines=A+Python+developer+and+just+a+good+guy" alt="Typing SVG" />
 </a>
 
-### ОБО МНЕ:
+### Обо мне:
 
 Я начинающий Python разработчик из г. Краснодар.
+
 Последние 1,5 года пишу различные pet-проекты, преимущественно с использование языка Python и его фреймворков, помимо этого активно использую его на текущем месте работы для автоматизации бизнес-процессов.
+
 На данный момент мне интересны сферы `backend-разработки` и `ETL`, планирую развиваться в этом направлении.
 
-Имею опыт разработки со следующими технологиями:
+### Имею опыт разработки со следующими технологиями:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
