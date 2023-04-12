@@ -5,9 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=200&size=18&duration=3500&pause=8000&color=000000&center=true&vCenter=true&repeat=true&width=815&lines=A+Python+developer+and+just+a+good+guy" alt="Typing SVG" />
 </a>
 
-## ОБО МНЕ:
+### ОБО МНЕ:
 
-Я начинающий Python разработчик из г. Краснодар. Последние 1,5 года пишу различные pet-проекты, преимущественно с использование языка Python и его фреймворков, помимо этого активно использую данный навык на текущем месте работы для автоматизации бизнес-процессов. На данный момент мне интересны сферы backend-разработки и ETL, планирую развиваться в этом направлении.
+Я начинающий Python разработчик из г. Краснодар.
+Последние 1,5 года пишу различные pet-проекты, преимущественно с использование языка Python и его фреймворков, помимо этого активно использую его на текущем месте работы для автоматизации бизнес-процессов.
+На данный момент мне интересны сферы `backend-разработки` и `ETL`, планирую развиваться в этом направлении.
+
 Имею опыт разработки со следующими технологиями:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,5 +22,4 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
