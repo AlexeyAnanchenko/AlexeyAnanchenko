@@ -25,8 +25,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center"> </p>
+<p align="center"> </p>
+<p align="center"> </p>
 <h3 align="center">Сатистистика на Github</h3>
-<h3 align="center">______________________________________________________________________________________________________________</h3>
+<h3 align="center">__________________________________________________________________________________________________________________</h3>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyAnanchenko)](https://github.com/anuraghazra/github-readme-stats)
