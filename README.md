@@ -24,6 +24,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyAnanchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">__________________________________________________________________________________</h3>
+<h3 align="center">Сатистистика на Github</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyAnanchenko)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyAnanchenko)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexeyAnanchenko&theme=github)
