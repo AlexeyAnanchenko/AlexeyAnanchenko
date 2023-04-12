@@ -24,7 +24,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2 align="center">Сатистика</h2>
+<h2 align="center"> </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyAnanchenko&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexeyAnanchenko&theme=default)
