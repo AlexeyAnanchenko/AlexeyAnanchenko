@@ -23,7 +23,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 <h3 align="center">___________________________________________________________________________________________________________________</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyAnanchenko)](https://github.com/anuraghazra/github-readme-stats)
