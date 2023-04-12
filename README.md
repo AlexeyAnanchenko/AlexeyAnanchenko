@@ -1,3 +1,3 @@
-<h1 align="center">Welcome, my name is <a href="https://daniilshat.ru/" target="_blank">Ananchenko Alexey</a> 
+<h1 align="center">Welcome, my name is <a href="https://daniilshat.ru/" target="_blank">Alexey Ananchenko</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A Python developer from Russia 🇷🇺, and just a good guy</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=16&duration=3500&pause=1000&color=000000&repeat=false&width=435&lines=A+Python+developer+and+just+a+good+guy" alt="Typing SVG" /></a>
