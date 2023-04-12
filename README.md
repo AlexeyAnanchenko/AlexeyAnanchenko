@@ -24,7 +24,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h6 align="center">Сатистистика на Github</h6>
 <h3 align="center">___________________________________________________________________________________________________________________</h3>
 
 
