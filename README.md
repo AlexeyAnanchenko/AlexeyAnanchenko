@@ -24,7 +24,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <h3 align="center">___________________________________________________________________________________________________________________</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexeyAnanchenko&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyAnanchenko&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexeyAnanchenko&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyAnanchenko&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexeyAnanchenko&theme=default)
